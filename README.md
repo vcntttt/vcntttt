@@ -2,10 +2,10 @@
 
 ## About me
 
-- 📚 I'm currently studying Informatics Engineering.
+- 📚 Estudiante de Ingeniería Informática.
 <!-- - 🔭 I’m currently working on [url-shortener](https://github.com/vcntttt/url-shortener) -->
 
-- 🌱 I’m currently learning **NextJS**
+<!-- - 🌱 Actualmente estoy aprendiendo **NextJS** -->
 <!-- - 👨‍💻 All of my projects are available at [portfolio.link](portfolio.link) -->
 
 ## 🧑🏻‍💻 Tech Stack

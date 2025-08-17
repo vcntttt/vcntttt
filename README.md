@@ -19,10 +19,10 @@ Full-stack TypeScript — React/Next · Node · React Native
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=vcntttt&locale=en&hide_title=false&card_width=800&langs_count=8&theme=dark&hide_border=true&order=2)
 
 
-<div style="display: flex; justify-content: space-between; margin: 0 3rem;">
+<div style="display: flex; justify-content: space-between; width: 100%; margin: 0 3rem;">
   <a href="https://vrivera.is-a.dev" target="_blank" style="text-decoration: underline;">Portfolio</a>
-  <a href="https://vrivera.is-a.dev" target="_blank" style="text-decoration: underline;">PonderApp</a>
-  <a href="https://vrivera.is-a.dev" target="_blank" style="text-decoration: underline;">LinkedIn</a>
+  <a href="https://play.google.com/store/apps/details?id=com.vrivera.ponderapp" target="_blank" style="text-decoration: underline;">PonderApp</a>
+  <a href="https://www.linkedin.com/in/vriverainf/" target="_blank" style="text-decoration: underline;">LinkedIn</a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -20,9 +20,11 @@ Full-stack TypeScript
 
 
 <div style="display: flex; justify-content: space-between; width: 100%; margin: 0 3rem;">
-  <a href="https://vrivera.is-a.dev" target="_blank" style="text-decoration: underline;">Portfolio</a>
-  <a href="https://play.google.com/store/apps/details?id=com.vrivera.ponderapp" target="_blank" style="text-decoration: underline;">PonderApp</a>
-  <a href="https://www.linkedin.com/in/vriverainf/" target="_blank" style="text-decoration: underline;">LinkedIn</a>
+  <p align="center">
+    <a href="https://vrivera.is-a.dev" target="_blank">Portfolio</a> &nbsp;|&nbsp;
+    <a href="https://play.google.com/store/apps/details?id=com.vrivera.ponderapp" target="_blank">PonderApp</a> &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/vriverainf/" target="_blank">LinkedIn</a>
+  </p>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

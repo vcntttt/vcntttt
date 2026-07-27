@@ -1,23 +1,17 @@
 # Vicente Rivera
 
-Full-stack TypeScript
+#### Favorite tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,ts,react,nextjs,astro" alt="Skills, Tools, and Technologies" />
+  </a>
+</p>
 
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-![](https://nirzak-streak-stats.vercel.app/?user=vcntttt&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=vcntttt&locale=en&hide_title=false&card_width=800&langs_count=8&theme=dark&hide_border=true&order=2)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vite,vercel,bun,neovim,bash,linux,arch,docker" alt="Tools and Services" />
+  </a>
+</p>
 
 <div style="display: flex; justify-content: space-between; width: 100%; margin: 0 3rem;">
   <p align="center">
